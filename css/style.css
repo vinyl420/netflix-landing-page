@@ -218,7 +218,7 @@ img {
     background: #222;
 }
 
- <!--Footer-->
+/*-Footer-*/
 
 .footer {
     max-width: 75%;
@@ -254,4 +254,12 @@ img {
     border: 1px solid #333;
     padding: 1rem 1.2rem;
     border-radius: 5px;
+}
+
+/* Container */
+.container {
+    max-width: 70%;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 2rem;
 }
