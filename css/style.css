@@ -245,3 +245,13 @@ img {
 .footer li {
     line-height: 1.9;
 }
+
+.footer .lang-select {
+    margin-top: 2px;
+    background: #000;
+    color: #999;
+    background-image: none;
+    border: 1px solid #333;
+    padding: 1rem 1.2rem;
+    border-radius: 5px;
+}
